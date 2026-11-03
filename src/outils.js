@@ -1,6 +1,6 @@
 // Outils FOURNIS par les coachs : utilisez-les dans vos fonctions, ne les modifiez pas.
 
-// Convertit un texte tapé au clavier en nombre.
+//  Convertit un texte tapé au clavier en nombre.
 // Accepte la virgule française et les espaces entre les milliers.
 // Renvoie NaN (« Not a Number ») si le texte est vide ou n'est pas un nombre.
 // Exemples : versNombre('5,2') → 5.2 · versNombre('3 000') → 3000
