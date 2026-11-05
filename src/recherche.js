@@ -5,7 +5,6 @@
 // sans tenir compte des majuscules : 'PALM' trouve 'palmier à huile'. Éventuellement vide.
 export function rechercherParNom(plants, texte) {
   const cherche = String(texte).toLowerCase();
-  if (!cherche) return [];
   return plants.filter((p) => String(p.nomCommun).toLowerCase().includes(cherche));
 
 }

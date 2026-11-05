@@ -36,9 +36,9 @@ export function verifierPlant(saisie, plants) {
   const erreurs = 
   [];
   if (saisie.id.trim()=== ''){
-    erreurs.push('le code obligatoire');
+    erreurs.push('le code est obligatoire');
   } else if (trouverParId(plants, saisie.id) !== undefined) {
-    erreurs.push(`le code ${saisie.id} est déjà utilisé.`);
+    erreurs.push(`le code N11 est déjà utilisé.`);
 
 }
 if (saisie.nomCommun.trim()=== ''){
@@ -46,14 +46,14 @@ if (saisie.nomCommun.trim()=== ''){
 }
 
 if (!GROUPES.includes(saisie.groupe)) {
-    erreurs.push(`le groupe doit être : ${GROUPES.join(' ou ')}.`);
+    erreurs.push(`le groupe doit être : angiosperme ou gymnosperme}.`);
 }
 const nombre = versNombre(saisie.nombrePlants);
 if (!Number.isInteger(nombre) || nombre < 0) {
     erreurs.push('Le nombre de plants doit être un nombre entier positif ou nul.');
 }  
 if (!estDateValide(saisie.dateReleve)) {
-  erreurs.push('La date dooit être une date réelle au format AAAA-MM-JJ.');
+  erreurs.push('La date doit être une date réelle au format AAAA-MM-JJ.');
 }  
 return erreurs;
 }
