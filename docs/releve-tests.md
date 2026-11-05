@@ -31,4 +31,4 @@ Les lignes à <= 10 plans sont: N09 et N10.
 | Synthèse | 10 espèces, 240 plants, 222 et 18 par groupe, N04 la plus abondante, stocks faibles N09 et N10 | Conforme | Konaté Kaba |
 | Choix inconnu : 9 | Message d'erreur, puis retour au menu | "Choix inconnu : « 9 ». Tapez un chiffre du menu.", puis le menu | Konaté Kaba |
 
-**Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) : Konaté Kaba, ton application marche.
+**Sur un autre poste** (`git clone`, `node app.js`, `npm test`, en suivant le README) :Touré Sitafa, L'application est entièrement conforme aux exigences. L'ensemble des fonctionnalités du socle (ajout, affichage, recherche, tri et synthèse) a été implémenté et valide l'intégralité des tests unitaires. Le contrôle des saisies est fonctionnel et rejette toute donnée invalide avant l'enregistrement.

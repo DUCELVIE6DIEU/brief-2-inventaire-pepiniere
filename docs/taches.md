@@ -11,7 +11,12 @@
 | Fiche 5 : synthèse ; choix 5 | 2026-11-05 | 2026-11-05 | Résolution de la fiche (synthese) qui demandait de faire la synthese des quantités disponibles |
 | Tests par un camarade ; mes propres tests | 2026-11-05  | 2026-11-05 |  |
 | Fiche agronomique ; README ; documents | 2026-11-02 | 2026-11-03 au 2026-11-05 | Résolution de la fiche 1-concevoir.md, finition du README |
-| Dépôt cloné et lancé ailleurs ; démonstration répétée |2026-11-05 | 2026-11-05 | Konate Kaba, |
+| Dépôt cloné et lancé ailleurs ; démonstration répétée |2026-11-05 | 2026-11-05 | Touré Sitafa, |
+L'application est entièrement conforme aux exigences. L'ensemble des fonctionnalités du socle (ajout, affichage, recherche, tri et synthèse) a été implémenté et valide l'intégralité des tests unitaires. Le contrôle des saisies est fonctionnel et rejette toute donnée invalide avant l'enregistrement.
+
+
+
+
 | Bonus | | | |
 
 **Blocages** (le message exact, ce que j'ai essayé, la solution) : 
@@ -19,4 +24,4 @@ PS C:\Users\DELL\Desktop\Projet_SAS> cd brief-2-inventaire-pepiniere0
 cd : Impossible de trouver le chemin d'accès « C:\Users\DELL\Desktop\Projet_SAS\brief-2-inventaire-pepiniere0 », car il n'existe pas.         
 Au caractère Ligne:1                                                                                                             
 + cd brief-2-inventaire-pepiniere0
-+ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~, j'ai reli le message d'erreur puis j'ai rectifié en enlevant le 0 que j'avais mise et mon code est passé.
++ ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~, j'ai reli le message d'erreur puis j'ai rectifié en enlevant le 0 que j'avais mise et mon code a marché.
