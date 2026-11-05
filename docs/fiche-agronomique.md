@@ -16,4 +16,5 @@
 - si on a > 10 plants(ex: cacao = 30 plants) = stock bon, pas besoin de produire.
 Donc on produit seulement si on est en dessous du seuil.
 
-Sources et origine des observations : Inventaire pepiniere parcelles maraichaires P1, P2, P3· Relu par le coach le : 2026-10-24
+Sources et origine des observations : Inventaire pepiniere parcelles maraichaires P1, P2, P3· 
+Relu par le coach le : 2026-10-24
