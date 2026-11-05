@@ -66,8 +66,8 @@ export function creerPlant(saisie) {
   return {
     id: saisie.id,
     nomCommun: saisie.nomCommun,
-    grouppe: saisie.groupe,
-    nombrePlants: versNombre(saisie.nomnrePlants),
+    groupe: saisie.groupe,
+    nombrePlants: versNombre(saisie.nombrePlants),
     dateReleve: saisie.dateReleve
 
   };
