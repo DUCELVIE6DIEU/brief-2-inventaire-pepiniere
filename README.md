@@ -53,4 +53,5 @@ Sous PowerShell, si `npm` est bloqué : `npm.cmd test`.
 
 ## Auteur
 
-✏️ *Ducelvie DIeuveille BATSIMBA, DUCELVIE6DIEU. Entraide : avec qui, sur quoi.*
+*Ducelvie Dieuveille BATSIMBA, DUCELVIE6DIEU. 
+Entraide : Avec tous les membres de mon groupe du brief-2-inventaire-pepiniere, chacun a apporté un peu de son savoir pour permettre aux autres d'éclaircir ses zones d'ombre et d'incompréhension. Koffi Viegnekou et Fofana Fanta, ils m'ont évité les petites erreurs de saisi que j'avais commises.*
